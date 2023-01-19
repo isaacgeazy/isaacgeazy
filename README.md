@@ -5,10 +5,6 @@
 
 ##
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacgeazy&show_icons=true&theme=dark"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacgeazy&layout=compact"/>
-</div>
 
 <br>
 
